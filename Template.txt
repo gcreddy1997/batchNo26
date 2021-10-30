@@ -1,0 +1,8 @@
+Mr. {0}
+
+Hi greetings from GcreddyClasses.com
+
+This is to inform you that you that your {1} installment Rs.{2} is due. Please pay on or before {3}. Total due is {2}.
+
+Thanks
+GcReddy

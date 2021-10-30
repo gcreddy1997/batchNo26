@@ -1,0 +1,32 @@
+We define automation as "the creation and application of technology to monitor and control the production and delivery of products and services.".
+
+Theory of evolution need to adopt and update to make regular acts easy and  fast. Present Internet era changed the world a lot. Last 30+ years analyses (Banking sector) can be divided into:
+1. Computer Era (1990 to 2008) hard coded cash books converted as software's where paper ledger books will be become Paper less Ledger Accounts. "All banks by their own software's for maintain an individual Accounts"
+2. Mobile Era: (2005 to till date) Online accounts, payment gateways and Mobile apps are invented and Android and iPhone made online transactions made easy. Presently "A mobile for Every Person" 
+3. Robotic Era: (Automation Era): presently adopting by the industries in their regular business repetitive tasks of human can be associated to Robot by creating the Scripts, defining the processes. RPA (Robotic Process Automation) uses a software or cognitive/ AI robots for performing process operations instead of human operations. In near feature "A robot for Every Person"
+
+
+In case of a change in process, a change in few lines of software code is always faster and cheaper than retraining hundreds of employees. The automation of rules-based processes with structured data to facilitate sharing of information between applications.  The systems are accessed by a user account controlled by a "bot." IT helps fill in the gaps as a powerful, complementary technology to reduce costs and increase productivity.
+By a robot as an assistant to do Repetitive task of a human which can do actions like:
+1. Multiple data processing (One only workflow but multiple times)
+2. Receiving the males and segregating them and saves either on the desktop folders or moving mail fodders. 
+3. Sending the attachments to multiple people of the same template adding the prescribed attachments etc.
+4. Invoice processing, Payroll, Employee status changes, New hire recruitment and on boarding. Accounts receivable and payable, Invoice processing, Inventory management, Report creation, Software installations, Data migration, Vendor on boarding etc.
+5. Periodic reporting, data entry and data analysis and filing the storage mechanism.
+6. Conversion of data formats and its graphics. 
+Conclusion whether India or world it is mandatory to adopt and update as per the changes. I hope you are good with this answer. When new era is emerging it creates huge demand for new jobs in IT.  In near features a lot of JOB opportunities for RPA Developers who can develop workflows. You want to become a RPA Developer then you can call 9871536682.
+
+
+Vikash  & Akshit.....
+
+
+
+
+
+
+
+
+
+
+
+
